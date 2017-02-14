@@ -1,0 +1,446 @@
+[18,23:55:07.983] OnInitDialog: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:55:07.983] GetLoaclSetupInfo: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:55:07.999] GetLoaclSetupInfo_ALL: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:55:08.874] OnInitDialog: (Process is 6140, thread is 2280)
+	[end]
+[18,23:55:10.545] DocumentCompleteExplorerBrowser: (Process is 6140, thread is 2280)
+	[begin:pos:20]
+[18,23:55:10.554] DocumentCompleteExplorerBrowser: (Process is 6140, thread is 2280)
+	[end]
+[18,23:55:10.594] DocumentCompleteExplorerBrowser: (Process is 6140, thread is 2280)
+	[begin:pos:30]
+[18,23:55:10.599] DocumentCompleteExplorerBrowser: (Process is 6140, thread is 2280)
+	[end]
+[18,23:55:10.604] DocumentCompleteExplorerBrowser: (Process is 6140, thread is 2280)
+	[begin:pos:40]
+[18,23:55:10.608] DocumentCompleteExplorerBrowser: (Process is 6140, thread is 2280)
+	[end]
+[18,23:55:10.611] DocumentCompleteExplorerBrowser: (Process is 6140, thread is 2280)
+	[begin:pos:50]
+[18,23:55:10.614] DocumentCompleteExplorerBrowser: (Process is 6140, thread is 2280)
+	[end]
+[18,23:55:10.617] DocumentCompleteExplorerBrowser: (Process is 6140, thread is 2280)
+	[begin:pos:60]
+[18,23:55:10.620] DocumentCompleteExplorerBrowser: (Process is 6140, thread is 2280)
+	[end]
+[18,23:55:10.623] CCB_GetProxySettings: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:55:10.625] CCB_GetProxySettings: (Process is 6140, thread is 2280)
+	[end]
+[18,23:55:10.628] DocumentCompleteExplorerBrowser: (Process is 6140, thread is 2280)
+	[begin:pos:70]
+[18,23:55:10.631] DocumentCompleteExplorerBrowser: (Process is 6140, thread is 2280)
+	[end]
+[18,23:55:10.645] DocumentCompleteExplorerBrowser: (Process is 6140, thread is 2280)
+	[begin:pos:80]
+[18,23:55:10.649] DocumentCompleteExplorerBrowser: (Process is 6140, thread is 2280)
+	[end]
+[18,23:55:10.656] DocumentCompleteExplorerBrowser: (Process is 6140, thread is 2280)
+	[begin:pos:90]
+[18,23:55:10.659] RegistDeviceChangeEvent: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:55:10.661] RegistDeviceChangeEvent: (Process is 6140, thread is 2280)
+	[end]
+[18,23:55:10.664] EnumExistUKey: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:55:10.668] Dev2KeyType: (Process is 6140, thread is 2280)
+	[begin	strDevPath:\\?\scsi#disk&ven_wd_____&prod_wd10jpvx-08jc3t6#4&139d514a&0&010000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}]
+[18,23:55:10.670] Dev2KeyType: (Process is 6140, thread is 2280)
+	[begin	strDevPath:\\?\hid#vid_17ef&pid_6039#6&281347b3&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}]
+[18,23:55:10.673] EnumExistUKey: (Process is 6140, thread is 2280)
+	[end]
+[18,23:55:10.678] SortControl: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:55:10.686] SortControl: (Process is 6140, thread is 2280)
+	[end]
+[18,23:55:10.691] CCB_DetectAll: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:55:10.694] CCB_DetectAll: (Process is 6140, thread is 2280)
+	[end]
+[18,23:55:10.694] RepairThread: (Process is 6140, thread is 10840)
+	[begin]
+[18,23:55:10.696] AddResult: (Process is 6140, thread is 10840)
+	[begin]
+[18,23:55:10.740] DocumentCompleteExplorerBrowser: (Process is 6140, thread is 2280)
+	[end]
+[18,23:55:10.744] CCB_ClientWindowInfo: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:55:10.747] CCB_ClientWindowInfo: (Process is 6140, thread is 2280)
+	[end]
+[18,23:55:10.828] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:55:10.831] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:55:10.835] AddResult: (Process is 6140, thread is 10840)
+	[end]
+[18,23:55:10.838] AddResult: (Process is 6140, thread is 10840)
+	[begin]
+[18,23:55:10.841] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:55:10.845] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:55:10.847] AddResult: (Process is 6140, thread is 10840)
+	[end]
+[18,23:55:10.851] AddResult: (Process is 6140, thread is 10840)
+	[begin]
+[18,23:55:10.935] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:55:10.939] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:55:10.941] AddResult: (Process is 6140, thread is 10840)
+	[end]
+[18,23:55:10.944] AddResult: (Process is 6140, thread is 10840)
+	[begin]
+[18,23:55:10.949] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:55:10.953] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:55:10.955] AddResult: (Process is 6140, thread is 10840)
+	[end]
+[18,23:55:11.049] AddResult: (Process is 6140, thread is 10840)
+	[begin]
+[18,23:55:11.059] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:55:11.065] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:55:11.069] AddResult: (Process is 6140, thread is 10840)
+	[end]
+[18,23:55:11.074] AddResult: (Process is 6140, thread is 10840)
+	[begin]
+[18,23:55:11.078] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:55:11.083] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:55:11.087] AddResult: (Process is 6140, thread is 10840)
+	[end]
+[18,23:55:11.090] AddResult: (Process is 6140, thread is 10840)
+	[begin]
+[18,23:55:11.098] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:55:11.102] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:55:11.104] AddResult: (Process is 6140, thread is 10840)
+	[end]
+[18,23:55:11.107] CCB_IsTLS12OrLaterChecked: (Process is 6140, thread is 10840)
+	[begin]
+[18,23:55:11.110] Read: (Process is 6140, thread is 10840)
+	[begin]
+[18,23:55:11.113] Close: (Process is 6140, thread is 10840)
+	[begin]
+[18,23:55:11.116] Close: (Process is 6140, thread is 10840)
+	[end]
+[18,23:55:11.119] CCB_IsTLS12OrLaterChecked: (Process is 6140, thread is 10840)
+	[end]
+[18,23:55:11.122] AddResult: (Process is 6140, thread is 10840)
+	[begin]
+[18,23:55:11.125] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:55:11.129] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:55:11.132] AddResult: (Process is 6140, thread is 10840)
+	[end]
+[18,23:55:11.136] AddResult: (Process is 6140, thread is 10840)
+	[begin]
+[18,23:55:11.139] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:55:11.142] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:55:11.145] AddResult: (Process is 6140, thread is 10840)
+	[end]
+[18,23:55:11.148] AddResult: (Process is 6140, thread is 10840)
+	[begin]
+[18,23:55:11.157] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:55:11.161] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:55:11.164] AddResult: (Process is 6140, thread is 10840)
+	[end]
+[18,23:55:11.167] AddResult: (Process is 6140, thread is 10840)
+	[begin]
+[18,23:55:11.171] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:55:11.189] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:55:11.191] AddResult: (Process is 6140, thread is 10840)
+	[end]
+[18,23:55:11.195] RepairThread: (Process is 6140, thread is 10840)
+	[end]
+[18,23:55:55.091] ShowSettingDlg: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:55:55.094] ShowSettingDlg: (Process is 6140, thread is 2280)
+	[end]
+[18,23:55:56.483] ShowSettingDlg: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:55:56.488] ShowSettingDlg: (Process is 6140, thread is 2280)
+	[end]
+[18,23:55:58.575] ShowSettingDlg: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:55:58.580] ShowSettingDlg: (Process is 6140, thread is 2280)
+	[end]
+[18,23:56:01.935] ShowSettingDlg: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:01.940] ShowSettingDlg: (Process is 6140, thread is 2280)
+	[end]
+[18,23:56:02.026] CCB_RepairAll: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:02.029] RepairThread: (Process is 6140, thread is 7620)
+	[begin]
+[18,23:56:02.033] AddResult: (Process is 6140, thread is 7620)
+	[begin]
+[18,23:56:02.040] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:02.044] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:56:02.047] AddResult: (Process is 6140, thread is 7620)
+	[end]
+[18,23:56:02.050] AddResult: (Process is 6140, thread is 7620)
+	[begin]
+[18,23:56:02.056] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:02.060] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:56:02.063] AddResult: (Process is 6140, thread is 7620)
+	[end]
+[18,23:56:02.099] AddResult: (Process is 6140, thread is 7620)
+	[begin]
+[18,23:56:02.108] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:02.113] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:56:02.116] AddResult: (Process is 6140, thread is 7620)
+	[end]
+[18,23:56:02.121] AddResult: (Process is 6140, thread is 7620)
+	[begin]
+[18,23:56:02.125] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:02.129] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:56:02.132] AddResult: (Process is 6140, thread is 7620)
+	[end]
+[18,23:56:02.140] AddResult: (Process is 6140, thread is 7620)
+	[begin]
+[18,23:56:02.143] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:02.147] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:56:02.150] AddResult: (Process is 6140, thread is 7620)
+	[end]
+[18,23:56:03.189] AddResult: (Process is 6140, thread is 7620)
+	[begin]
+[18,23:56:03.195] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:03.205] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:56:03.209] AddResult: (Process is 6140, thread is 7620)
+	[end]
+[18,23:56:03.282] AddResult: (Process is 6140, thread is 7620)
+	[begin]
+[18,23:56:03.288] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:03.294] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:56:03.298] AddResult: (Process is 6140, thread is 7620)
+	[end]
+[18,23:56:03.306] AddResult: (Process is 6140, thread is 7620)
+	[begin]
+[18,23:56:03.310] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:03.315] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:56:03.323] AddResult: (Process is 6140, thread is 7620)
+	[end]
+[18,23:56:03.326] CCB_IsTLS12OrLaterChecked: (Process is 6140, thread is 7620)
+	[begin]
+[18,23:56:03.330] Read: (Process is 6140, thread is 7620)
+	[begin]
+[18,23:56:03.338] Close: (Process is 6140, thread is 7620)
+	[begin]
+[18,23:56:03.343] Close: (Process is 6140, thread is 7620)
+	[end]
+[18,23:56:03.347] CCB_IsTLS12OrLaterChecked: (Process is 6140, thread is 7620)
+	[end]
+[18,23:56:03.355] CCB_UncheckTLS12AndLater: (Process is 6140, thread is 7620)
+	[begin]
+[18,23:56:03.359] Read: (Process is 6140, thread is 7620)
+	[begin]
+[18,23:56:03.363] Close: (Process is 6140, thread is 7620)
+	[begin]
+[18,23:56:03.370] Close: (Process is 6140, thread is 7620)
+	[end]
+[18,23:56:03.374] CCB_UncheckTLS12AndLater: (Process is 6140, thread is 7620)
+	[end]
+[18,23:56:03.377] AddResult: (Process is 6140, thread is 7620)
+	[begin]
+[18,23:56:03.380] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:03.386] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:56:03.390] AddResult: (Process is 6140, thread is 7620)
+	[end]
+[18,23:56:03.394] AddResult: (Process is 6140, thread is 7620)
+	[begin]
+[18,23:56:03.404] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:03.408] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:56:03.412] AddResult: (Process is 6140, thread is 7620)
+	[end]
+[18,23:56:03.417] AddResult: (Process is 6140, thread is 7620)
+	[begin]
+[18,23:56:03.421] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:03.426] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:56:03.429] AddResult: (Process is 6140, thread is 7620)
+	[end]
+[18,23:56:03.436] AddResult: (Process is 6140, thread is 7620)
+	[begin]
+[18,23:56:03.441] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:03.444] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:56:03.447] AddResult: (Process is 6140, thread is 7620)
+	[end]
+[18,23:56:03.453] RepairThread: (Process is 6140, thread is 7620)
+	[end]
+[18,23:56:10.489] ShowSettingDlg: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:10.493] ShowSettingDlg: (Process is 6140, thread is 2280)
+	[end]
+[18,23:56:11.580] ShowSettingDlg: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:11.585] ShowSettingDlg: (Process is 6140, thread is 2280)
+	[end]
+[18,23:56:11.699] CCB_RepairAll: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:11.703] RepairThread: (Process is 6140, thread is 4196)
+	[begin]
+[18,23:56:11.707] AddResult: (Process is 6140, thread is 4196)
+	[begin]
+[18,23:56:11.712] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:11.716] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:56:11.720] AddResult: (Process is 6140, thread is 4196)
+	[end]
+[18,23:56:11.724] AddResult: (Process is 6140, thread is 4196)
+	[begin]
+[18,23:56:11.728] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:11.734] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:56:11.738] AddResult: (Process is 6140, thread is 4196)
+	[end]
+[18,23:56:12.291] AddResult: (Process is 6140, thread is 4196)
+	[begin]
+[18,23:56:12.294] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:12.300] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:56:12.303] AddResult: (Process is 6140, thread is 4196)
+	[end]
+[18,23:56:12.307] AddResult: (Process is 6140, thread is 4196)
+	[begin]
+[18,23:56:12.311] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:12.316] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:56:12.320] AddResult: (Process is 6140, thread is 4196)
+	[end]
+[18,23:56:12.325] AddResult: (Process is 6140, thread is 4196)
+	[begin]
+[18,23:56:12.329] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:12.335] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:56:12.339] AddResult: (Process is 6140, thread is 4196)
+	[end]
+[18,23:56:12.703] AddResult: (Process is 6140, thread is 4196)
+	[begin]
+[18,23:56:12.710] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:12.720] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:56:12.725] AddResult: (Process is 6140, thread is 4196)
+	[end]
+[18,23:56:12.769] AddResult: (Process is 6140, thread is 4196)
+	[begin]
+[18,23:56:12.773] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:12.779] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:56:12.785] AddResult: (Process is 6140, thread is 4196)
+	[end]
+[18,23:56:12.789] AddResult: (Process is 6140, thread is 4196)
+	[begin]
+[18,23:56:12.793] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:12.797] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:56:12.803] AddResult: (Process is 6140, thread is 4196)
+	[end]
+[18,23:56:12.807] CCB_IsTLS12OrLaterChecked: (Process is 6140, thread is 4196)
+	[begin]
+[18,23:56:12.811] Read: (Process is 6140, thread is 4196)
+	[begin]
+[18,23:56:12.817] Close: (Process is 6140, thread is 4196)
+	[begin]
+[18,23:56:12.822] Close: (Process is 6140, thread is 4196)
+	[end]
+[18,23:56:12.826] CCB_IsTLS12OrLaterChecked: (Process is 6140, thread is 4196)
+	[end]
+[18,23:56:12.830] CCB_UncheckTLS12AndLater: (Process is 6140, thread is 4196)
+	[begin]
+[18,23:56:12.836] Read: (Process is 6140, thread is 4196)
+	[begin]
+[18,23:56:12.839] Close: (Process is 6140, thread is 4196)
+	[begin]
+[18,23:56:12.843] Close: (Process is 6140, thread is 4196)
+	[end]
+[18,23:56:12.847] CCB_UncheckTLS12AndLater: (Process is 6140, thread is 4196)
+	[end]
+[18,23:56:12.853] AddResult: (Process is 6140, thread is 4196)
+	[begin]
+[18,23:56:12.856] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:12.862] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:56:12.868] AddResult: (Process is 6140, thread is 4196)
+	[end]
+[18,23:56:12.872] AddResult: (Process is 6140, thread is 4196)
+	[begin]
+[18,23:56:12.877] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:12.882] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:56:12.886] AddResult: (Process is 6140, thread is 4196)
+	[end]
+[18,23:56:12.891] AddResult: (Process is 6140, thread is 4196)
+	[begin]
+[18,23:56:12.900] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:12.905] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:56:12.909] AddResult: (Process is 6140, thread is 4196)
+	[end]
+[18,23:56:12.913] AddResult: (Process is 6140, thread is 4196)
+	[begin]
+[18,23:56:12.918] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:12.923] OnSendIEMsg1: (Process is 6140, thread is 2280)
+	[end]
+[18,23:56:12.927] AddResult: (Process is 6140, thread is 4196)
+	[end]
+[18,23:56:12.932] RepairThread: (Process is 6140, thread is 4196)
+	[end]
+[18,23:56:15.872] ShowSettingDlg: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:15.877] ShowSettingDlg: (Process is 6140, thread is 2280)
+	[end]
+[18,23:56:15.955] UnRegistDeviceChangeEvent: (Process is 6140, thread is 2280)
+	[begin]
+[18,23:56:15.965] UnRegistDeviceChangeEvent: (Process is 6140, thread is 2280)
+	[end]
